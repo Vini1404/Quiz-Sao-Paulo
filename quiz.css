@@ -1,0 +1,71 @@
+* 
+{
+font-family:'Times New Roman', Times, serif;
+
+}
+
+body
+{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+
+}
+
+section
+{
+    background-color: rgba(145, 143, 143, 0.411);
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #000000a1;
+    padding: 30px;
+    margin:auto;
+    padding-top: 2px;
+
+}
+
+h1
+{
+    color:#000000;
+    font-family: "Copperplate", fantasy;
+    font-size: 60px;
+    margin-top: 0px;
+    text-align: center;
+    text-shadow: 1px 1px 2px #ff0000;
+    text-transform: Uppercase;
+
+}
+
+h2
+{
+    color: black;
+    text-align: center;
+    margin-top: -40px;
+    font-family: "Copperplate", fantasy;
+    font-size: 45px;
+    text-shadow: 1px 1px 2px #ff0000;
+    text-transform: Uppercase;
+}
+
+.a
+{
+
+    list-style: inside decimal;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px #000000;
+}
+
+.r
+{
+    list-style: inside lower-alpha;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px #000000;
+}
+
+.vermelho
+{
+    background-color: rgba(255, 0, 0, 0.582)
+}
